@@ -4,6 +4,7 @@ public class Student {
 	private String unumber;
 	private String sex;
 	private String name;
+	//Constructor
 	public Student(String unumber, String sex, String name) {
 		super();
 		this.unumber = unumber;
